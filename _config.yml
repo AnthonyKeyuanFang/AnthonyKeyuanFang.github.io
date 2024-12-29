@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "CN"
 title                    : "FANG Keyuan"
 title_separator          : "-"
 name                     : &name "Keyuan"
@@ -35,7 +35,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=y5EvYtMAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/0009-0009-9245-8791"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Keyuan-Fang-2"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
