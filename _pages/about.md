@@ -11,7 +11,7 @@ redirect_from:
 
 Introduction
 ======
-
+This is Keyuan Fang. I received my BSc degree in South China University of Science and Technology in Guangzhou, and continue to study as a Ph.D. student in HKUST(GZ).
 
 
 
