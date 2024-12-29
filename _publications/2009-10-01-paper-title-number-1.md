@@ -1,5 +1,5 @@
 ---
-title: "Detecting Digital Government Answer Quality: An Integrated Method Based on Large Language Models and Machine Learning Models"
+title: "Paper Title Number 1"
 collection: publications
 category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
