@@ -21,12 +21,12 @@ repository               : "AnthonyKeyuanFang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "FANG Keyuan"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Guangzhou, China"
+  employer         : "The Hong Kong University of Science and Technology (Guangzhou)"
   uri              : # URL
   email            : "kfang087@connect.hkust-gz.edu.cn" 
 
