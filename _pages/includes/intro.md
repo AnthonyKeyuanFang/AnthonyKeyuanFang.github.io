@@ -1,4 +1,19 @@
-I am now working at [HeyGen](https://www.heygen.com) <img src='./images/heygen_logo.svg' style="width: 4em;">, leading foundation video model research team at the Singapore office. If you are seeking any form of **academic cooperation**, please feel free to email me at [rayeren613@gmail.com](mailto:rayeren613@gmail.com). We are hiring interns!
+
+Keyuan Fang is an Assistant Professor at the School of Big Data and Artificial Intelligence, Guangdong University of Finance. He received his PhD degree in Management at [HKUST](https://hkust.edu.hk/). His research intersects digital governance, large language models and computational social science. He develops LLM-based intelligent systems for government citizen services, including automatic issue allocation, response quality detection and AI reply generation. His related technologies have obtained invention patents and software copyrights, and been piloted in local tax bureaus. His works are published in SSCI Q1 journals, EI conferences and CSSCI core Chinese journals. He has hosted multiple municipal and provincial research projects on government AI and public opinion analysis, with solid experience in algorithm engineering, quantitative empirical research and university teaching.
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--I am now working at [HeyGen](https://www.heygen.com) <img src='./images/heygen_logo.svg' style="width: 4em;">, leading foundation video model research team at the Singapore office. If you are seeking any form of **academic cooperation**, please feel free to email me at [rayeren613@gmail.com](mailto:rayeren613@gmail.com). We are hiring interns!
 
 I graduated from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.htm), Zhejiang University (浙江大学竺可桢学院) with a bachelor's degree and from the Department of Computer Science and Technology, Zhejiang University (浙江大学计算机科学与技术学院) with a master's degree, advised by [Zhou Zhao (赵洲)](https://person.zju.edu.cn/zhaozhou). I also collaborate with [Xu Tan (谭旭)](https://www.microsoft.com/en-us/research/people/xuta/), [Tao Qin (秦涛)](https://www.microsoft.com/en-us/research/people/taoqin/) and [Tie-yan Liu (刘铁岩)](https://www.microsoft.com/en-us/research/people/tyliu/) from [Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/) closely. 
 
@@ -7,3 +22,6 @@ I won the [Baidu Scholarship](https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E5
 My research interest includes speech synthesis, neural machine translation and automatic music generation. I have published 50+ papers <a href='https://scholar.google.com/citations?user=4FA6C0AAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as NeurIPS, ICML, ICLR, KDD. 
 
 To promote the communication among the Chinese ML & NLP community, we (along with other 11 young scholars worldwide) founded the [MLNLP community](https://space.bilibili.com/168887299) in 2021. I am honored to be one of the chairs of the MLNLP committee.
+
+
+
