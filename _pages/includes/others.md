@@ -19,12 +19,13 @@
  - Demonstrated practical end-to-end analytical pipelines to help scholars quantify public sentiment and policy impacts from unstructured text data.
 </div>
 </div>
- - *2024.09*, Predicting Time Series with Adjusting Feature Weight: An Integrated Method Based on Large Language Models and SHAP, International Conference on Machine Learning and Natural Language Processing (MLNLP)
- - *2024.06*, Detecting Digital Government Answer Quality: An Integrated Method Based on Large Language Models and Machine Learning Models, Asia Conference on Algorithms, Computing and Machine Learning (CACML)
- - *2023.10*, Automating Government Response to Citizens’ Questions: A Large Language Model-Based Question-Answering Guidance Generation System, International Conference on Digital Society and Intelligent Systems (DSInS)
- - *2023.07*, Analysing Public Opinion on ChatGPT in Stages, Digital Governance Workshop, Sun Yat-sen University
- - *2023.06*, Analysing Public Sentiment about Covid-19 in Hong Kong, Asia Pacific Public Policy Network (AP-PPN) Conference
- - *2023.04*, What Emotional Effect will Prevention Policies Bring to People?, Annual Conference of the American Society for Public Administration
+
+- *2024.09*, Predicting Time Series with Adjusting Feature Weight: An Integrated Method Based on Large Language Models and SHAP, International Conference on Machine Learning and Natural Language Processing (MLNLP).
+- *2024.06*, Detecting Digital Government Answer Quality: An Integrated Method Based on Large Language Models and Machine Learning Models, Asia Conference on Algorithms, Computing and Machine Learning (CACML).
+- *2023.10*, Automating Government Response to Citizens’ Questions: A Large Language Model-Based Question-Answering Guidance Generation System, International Conference on Digital Society and Intelligent Systems (DSInS).
+- *2023.07*, Analysing Public Opinion on ChatGPT in Stages, Digital Governance Workshop, Sun Yat-sen University.
+- *2023.06*, Analysing Public Sentiment about Covid-19 in Hong Kong, Asia Pacific Public Policy Network (AP-PPN) Conference.
+- *2023.04*, What Emotional Effect will Prevention Policies Bring to People?, Annual Conference of the American Society for Public Administration.
 
 
 
