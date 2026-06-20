@@ -37,4 +37,4 @@
 
 
 # 💻 Internships
-- *2021.01 - 2021.06*, Tencent, Algorithm Researcher, Shenzhen.
+- *2021.01 - 2021.06*, [Tencent](https://www.tencent.com/), Algorithm Researcher, Shenzhen.
