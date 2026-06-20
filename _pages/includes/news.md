@@ -1,6 +1,10 @@
 # 🔥 News
-- *2024.03*: 🎉 Two papers are accepted by ICLR 2024
-- *2023.05*: 🎉 Five papers are accepted by ACL 2023
+- *2026.06*: 🎉 Coming to serve as the Program Committee of [CSCRAI 2027](https://www.cscrai.org/)
+- *2026.03*: 🎉 One grant is permitted
+- *2025.11*: 🎉 One paper are online by [JMA](https://www.tandfonline.com/doi/abs/10.1080/23270012.2025.2568494)
+
+
+<!--
 - *2023.01*: DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (2000k+ views) in Bilibili!
 - *2023.01*: I join TikTok <img src='./images/tiktok.png' style='width: 6em;'> as a speech research scientist in Singapore!
-- *2022.02*: I release a modern and responsive academic personal [homepage template](https://github.com/RayeRen/acad-homepage.github.io). Welcome to STAR and FORK!
+- *2022.02*: I release a modern and responsive academic personal [homepage template](https://github.com/RayeRen/acad-homepage.github.io). Welcome to STAR and FORK!-->
