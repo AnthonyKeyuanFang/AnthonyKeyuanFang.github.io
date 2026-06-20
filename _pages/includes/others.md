@@ -1,7 +1,7 @@
 
 # 📖 Educations
 - *2022.09 - 2025.08*, Ph.D. in Management, The Hong Kong University of Science and Technology, Hong Kong.
-- *2017.09 - 2021.06*, BSc, South China University of Technology, Guangzhou.
+- *2017.09 - 2021.06*, B.Sc. in Engineering, South China University of Technology, Guangzhou.
 
 # 💬 Invited Talks
 - *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
