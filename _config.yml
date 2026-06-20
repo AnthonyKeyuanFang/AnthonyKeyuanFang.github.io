@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Keyuan FANG(方岢愿)"
-description              : "Focusing on video and speech large generation model."
+description              : "Focusing on AI and Management."
 repository               : "AnthonyKeyuanFang/AnthonyKeyuanFang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Keyuan FANG(方岢愿)"
   avatar           : "images/自拍.jpg"
   bio              : ""
-  location         : "Guangzhou / Shenzhen / Hong Kong"
+  location         : "Guangzhou / Shenzhen"
   employer         : "Guangdong University of Finance"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=y5EvYtMAAAAJ&hl=en"
