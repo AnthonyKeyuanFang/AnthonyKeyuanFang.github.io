@@ -1,5 +1,28 @@
 
-# 📝 Publications 
+# 📝 Publications
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMA 2025</div><img src='images/jma2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Improve Issue-Handling Efficiency in Government QA Systems: An Automatic Issue Classification and Distribution System](https://www.tandfonline.com/doi/abs/10.1080/23270012.2025.2568494) \\
+- Identified critical operational flaws of traditional government QA systems including slow responses, backlogged cases and poor priority management, while noting insufficient relevant research.
+- **Academic Impact**: Developed a BERT-based AI framework for automatic citizen issue classification, attribute prediction and inter-department allocation, trained on over 810k real public consultation records.
+- **Industry Impact**: The model boosts prediction accuracy by 5%–10%, relieves department workload and reduces manual costs; it also extends New Public Management theories with AI-enabled public service optimization..
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+<!--
+
 ## 🎙 Speech Synthesis
 
 
