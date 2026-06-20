@@ -27,6 +27,11 @@
 </div>
 
 
+- ``CACML 2024`` [Detecting Digital Government Answer Quality: An Integrated Method Based on Large Language Models and Machine Learning Models](https://dl.acm.org/doi/abs/10.1145/3654823.3654825), **Keyuan FANG**, et al.
+- ``MLNLP 2024`` [Predicting Time Series with Adjusting Feature Weight: An Integrated Method Based on Large Language Models and SHAP](https://dl.acm.org/doi/abs/10.1145/3654823.3654825), **Keyuan FANG**, et al.
+- ``DSInS 2023`` [Automating government response to citizens’ questions: A large language model-based question-answering guidance generation system](https://ieeexplore.ieee.org/abstract/document/10455136/), **Keyuan FANG**, et al.
+
+
 
 
 
