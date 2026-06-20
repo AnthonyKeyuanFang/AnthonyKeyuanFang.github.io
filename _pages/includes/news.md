@@ -1,5 +1,6 @@
 # 🔥 News
 - *2026.06*: 🎉 Coming to serve as the Program Committee of [CSCRAI 2027](https://www.cscrai.org/)
+- *2026.06*: 🎉 Happy to serve as the Academic Consultant on AML projects for [EY HK](https://www.ey.com/en_cn)
 - *2026.03*: 🎉 One grant is permitted
 - *2025.11*: 🎉 One paper is accepted and online by [Journal of Management Analytics](https://www.tandfonline.com/doi/abs/10.1080/23270012.2025.2568494)
 
