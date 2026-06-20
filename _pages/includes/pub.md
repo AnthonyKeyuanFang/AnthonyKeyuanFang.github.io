@@ -3,7 +3,7 @@
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMA 2025</div><img src='images/jma2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMA 2026</div><img src='images/jma2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Improve Issue-Handling Efficiency in Government QA Systems: An Automatic Issue Classification and Distribution System](https://www.tandfonline.com/doi/abs/10.1080/23270012.2025.2568494) 
@@ -16,6 +16,15 @@
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CEAJ 2025</div><img src='images/CEAJ2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Complementary Strengths of LLMs and ML: Government Service Response Quality Detection and Explanation Algorithm Framework](https://link.cnki.net/urlid/11.2127.TP.20250418.1516.004) 
+- Resolved two core limitations of traditional government reply quality inspection: inefficient manual evaluation unable to handle massive public service demands, and poor interpretability of text-only machine learning models.
+- **Academic Impact**: Proposed a hybrid detection framework combining LLMs and machine learning centered on non-text features; it outperforms standalone LLM/ML methods with higher accuracy, faster convergence and lower training overhead.
+- **Industry Impact**: Adopted SHAP analysis to quantify the weight of eight non-text features, uncover key influential factors affecting reply quality, and guide the optimization of digital government public services and citizen trust.
+</div>
+</div>
 
 
 
@@ -167,3 +176,6 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 ## Others
 - `NeurIPS 2023` [Unsupervised Video Domain Adaptation for Action Recognition: A Disentanglement Perspective](https://openreview.net/forum?id=Rp4PA0ez0m), Pengfei Wei, Lingdong Kong, Xinghua Qu, **Yi Ren**, et al.
 - ``ACM-MM 2022`` [Video-Guided Curriculum Learning for Spoken Video Grounding](), Yan Xia, Zhou Zhao, Shangwei Ye, Yang Zhao, Haoyuan Li, **Yi Ren**
+
+
+-->
