@@ -6,7 +6,7 @@
 
 
 # 📖 Educations
-- *2022.09 - 2025.08*, Ph.D. in Management, [The Hong Kong University of Science and Technology](https://www.hkust.hk), Hong Kong.
+- *2022.09 - 2025.08*, Ph.D. in Management, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), Hong Kong.
 - *2017.09 - 2021.06*, B.Sc. in Engineering, [South China University of Technology](https://www.scut.edu.cn/en/), Guangzhou.
 
 
