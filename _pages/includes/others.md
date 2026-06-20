@@ -13,7 +13,7 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">APPPN 2024</div><img src='images/apppn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**Applying AI Text Analysis for Policy Research**, Asia Pacific Public Policy Network (AP-PPN) Conference
+**Applying AI Text Analysis for Policy Research**, Asia Pacific Public Policy Network (AP-PPN) Conference.
  - Hosting a workshop focusing on the application of AI text analysis tools to empirical public policy research for AP-PPN conference participants.
  - Introduced LLM-based text mining and interpretable feature analysis workflows tailored for policy document and public opinion data.
  - Demonstrated practical end-to-end analytical pipelines to help scholars quantify public sentiment and policy impacts from unstructured text data.
