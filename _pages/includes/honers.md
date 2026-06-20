@@ -1,4 +1,18 @@
 # 🎖 Honors and Awards
+- *2025.10* Excellent Presentation Award on Guangdong Ph.D. Conference
+- *2024.11* ACM Professional AI Showcase
+- *2024.06* CACML Excellent Paper Award
+- *2022.09* Full Ph.D. Scholarship (PGS)
+- *2018.10* Guangdong Mechanics Institute Outstanding Talent Award
+- *2018.09* Guangdong Mechanics Competition Outstanding Award
+- *2018.10* National Scholarship (Top 1%)
+- *2017–2021* First-class Scholarship (Annual)
+
+
+
+<!--
+
+
 - *2021.10* Tencent Scholarship (Top 1%)
 - *2021.10* National Scholarship (Top 1%)
 - *2020.12* [Baidu Scholarship](https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E5%A5%96%E5%AD%A6%E9%87%91/9929412) (10 students in the world each year)
@@ -8,3 +22,6 @@
 - *2020.10* Tianzhou Chen Scholarship (Top 1%)
 - *2020.10* National Scholarship (Top 1%)
 - *2015.10* National Scholarship (Undergraduate) (Top 1%)
+
+
+-->
