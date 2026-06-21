@@ -1,4 +1,5 @@
 # 🎖 Honors and Awards
+- *2025.12*, Excellent Policy Research Achievement Award on Guangdong-Hong Kong-Macao Comprehensive Cooperation
 - *2025.10*, Excellent Presentation Award on Guangdong Ph.D. Conference
 - *2024.11*, ACM Professional AI Showcase
 - *2024.06*, CACML Excellent Paper Award
