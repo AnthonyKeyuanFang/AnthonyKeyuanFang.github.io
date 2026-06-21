@@ -1,12 +1,12 @@
 # 🎖 Honors and Awards
-- *2025.10* Excellent Presentation Award on Guangdong Ph.D. Conference
-- *2024.11* ACM Professional AI Showcase
-- *2024.06* CACML Excellent Paper Award
-- *2022.09* Full Ph.D. Scholarship (PGS)
-- *2018.10* Guangdong Mechanics Institute Outstanding Talent Award
-- *2018.09* Guangdong Mechanics Competition Outstanding Award
-- *2018.10* National Scholarship (Top 1%)
-- *2017–2021* First-class Scholarship (Annual)
+- *2025.10*, Excellent Presentation Award on Guangdong Ph.D. Conference
+- *2024.11*, ACM Professional AI Showcase
+- *2024.06*, CACML Excellent Paper Award
+- *2022.09*, Full Ph.D. Scholarship (PGS)
+- *2018.10*, Guangdong Mechanics Institute Outstanding Talent Award
+- *2018.09*, Guangdong Mechanics Competition Outstanding Award
+- *2018.10*, National Scholarship (Top 1%)
+- *2017–2021*, First-class Scholarship (Annual)
 
 
 
