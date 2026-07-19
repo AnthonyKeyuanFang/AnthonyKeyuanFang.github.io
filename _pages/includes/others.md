@@ -15,11 +15,8 @@
 
 
 # 💾 Resources
-## Study & Academic Tools
 - [Google Scholar](https://scholar.google.com)
 - [Overleaf](https://www.overleaf.com)
 - [Doubao](https://www.doubao.com)
-
-## Video Platforms
 - [Bilibili](https://www.bilibili.com)
 - [YouTube](https://www.youtube.com)
