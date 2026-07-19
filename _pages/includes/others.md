@@ -15,7 +15,7 @@
 
 
 # 💾 Resources
-- [Google Scholar](https://scholar.google.com)
+- [Google Scholar](https://scholar.google.com)<img src='./images/scholar.png' style="width: 4em;">
 - [Overleaf](https://www.overleaf.com)
 - [Doubao](https://www.doubao.com)
 - [Bilibili](https://www.bilibili.com)
