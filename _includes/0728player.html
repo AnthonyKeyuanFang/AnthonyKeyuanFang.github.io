@@ -202,8 +202,7 @@
     }
   }
 </style>
-
-<!-- 播放器HTML结构（保留原布局，audio只做渲染载体） -->
+<!-- HTML 完全保持原样，无任何修改 -->
 <div id="music-player-bar">
     <audio id="main-audio" preload="metadata" class="myAudio">
     <div class="player-row">
@@ -227,8 +226,7 @@
 
 <script>
   document.addEventListener('DOMContentLoaded', () => {
-    // ===== 【核心：静态内置歌单，手动维护】 =====
-    // 文件放在 static/music/ 下，路径统一 /music/xxx.mp3
+    // ========== 仅新增：静态歌单数组，其余全部不动 ==========
     const staticSongList = [
       {
         name: "千個晨早",
@@ -239,10 +237,9 @@
         file: "/music/周慧敏(也許應該分手了).mp3"
       }
     ];
-
-    // ===== 状态 =====
+    // ===== 状态（仅修改 tracks 赋值，其他字段原样保留） =====
     const state = {
-      tracks: staticSongList, // 直接绑定静态歌单，不再抓取页面标签
+      tracks: staticSongList, // 绑定静态歌单，不再是空数组
       current: 0,
       playMode: 0, // 0顺序 1随机 2单曲循环
       shuffled: [],
@@ -278,6 +275,21 @@
     function setProgress(el, value) {
       el.value = value;
       el.style.setProperty('--progress', value + '%');
+    }
+    // ===== 读取歌曲（函数保留但不再执行，兼容原有代码） =====
+    function extractTracks() {
+      const list = document.querySelectorAll('.myAudio source');
+      state.tracks = Array.from(list).map(el => {
+        let src = el.getAttribute('src');
+        if (!src.startsWith('http')) {
+          const base = window.location.pathname.replace(/\/[^/]*$/, '/');
+          src = base + src;
+        }
+        return {
+          name: el.closest('.paper-box')?.querySelector('a')?.textContent || 'Unknown',
+          file: src
+        };
+      });
     }
     // ===== 🎲 真随机 =====
     function shuffleArray(arr) {
@@ -445,8 +457,49 @@
         next();
       }
     });
-
-    // ===== 移除原抓取页面audio标签的逻辑，直接使用静态歌单启动 =====
+// ===== 外部歌曲接入播放器 =====
+    function playFromExternal(src) {
+      const normalize = (s) => {
+        try {
+          return decodeURIComponent(s)
+                  .replace(window.location.origin, '')
+                  .replace(/^\/+/, '');
+        } catch {
+          return s;
+        }
+      };
+      const target = normalize(src);
+      const index = state.tracks.findIndex(t => {
+        return normalize(t.file).endsWith(target);
+      });
+      if (index === -1) return;
+      // ⭐ 随机模式同步
+      if (state.playMode === 1) {
+        const pos = state.shuffled.indexOf(index);
+        if (pos === -1) {
+          buildShuffle(index);
+        } else {
+          state.shuffleIndex = pos;
+        }
+      }
+      loadTrack(index, true);
+    }
+    // ===== 事件委托 =====
+    document.addEventListener('click', (e) => {
+      const btn = e.target.closest('.queue-track');
+      if (!btn) return;
+      e.preventDefault();
+      // ⭐ 自动寻找当前歌曲的 audio source
+      const box = btn.closest('.paper-box');
+      if (!box) return;
+      const source = box.querySelector('.myAudio source');
+      if (!source) return;
+      const src = source.getAttribute('src');
+      if (!src) return;
+      playFromExternal(src);
+    });
+    // ===== 启动 =====
+    // extractTracks(); // 注释掉，不再抓取页面歌曲
     if (state.tracks.length > 0) {
       loadTrack(0, false);
     }
