@@ -23,6 +23,10 @@
 <link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 <div id="music-player-bar">
   <audio id="main-audio" preload="auto"></audio>
+  <audio class="myAudio" loop controls>
+  <source src="music/周慧敏(千個晨早).mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+  </audio>
 <div class="player-row">
     <button id="prev-btn"><i class="fa-solid fa-backward-step"></i></button>
 
@@ -54,7 +58,4 @@
 {% include custom-music-player.html %}
 
 
-<audio class="myAudio" loop controls>
-  <source src="music/周慧敏(千個晨早).mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+
