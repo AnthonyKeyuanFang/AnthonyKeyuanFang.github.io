@@ -1,4 +1,5 @@
 # 👨‍🏫 Teaching
+- *2026 Fall*, CS5010 Java Programming Projects.
 - *2026 Spring*, CS2042 Comprehensive Experiment of Programming.
 - *2026 Spring*, DS2031 Application of Statistical Software.
 - *2025 Fall*, CS1021 Introduction to Computer Science.
