@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.08*: 🎉 One paper is accepted and online by [Journal of Chinese Information Processing](http://jcip.cipsc.org.cn/)
 - *2026.06*: 🎉 Two undergraduate students under my supervision won the Third Prize in the National AI Application Competition, congrats!
 - *2026.06*: 🎉 Happy to serve as the Academic Consultant on AML projects for [EY HK](https://www.ey.com/en_cn)
 - *2026.03*: 🎉 One grant is permitted
