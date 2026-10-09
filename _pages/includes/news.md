@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.10*: 🎉 One social science grant is permitted
 - *2026.09*: 🎉 Happy to serve as Social Science Expert in Guangdong Province
 - *2026.08*: 🎉 One paper on Recommendation Algorithms is accepted by [Journal of Chinese Information Processing](http://jcip.cipsc.org.cn/)
 - *2026.06*: 🎉 Two undergraduate students under my supervision won the Third Prize in the National AI Application Competition, congrats!
