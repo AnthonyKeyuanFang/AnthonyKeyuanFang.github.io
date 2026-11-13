@@ -6,12 +6,12 @@
 - *2025 Fall*, AI1002 Introduction to Artificial Intelligence.
 
 
-# 📖 Educations
+# 📖 Education
 - *2022.09 - 2025.08*, Ph.D. in Management, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), Hong Kong.
 - *2017.09 - 2021.06*, B.Sc. in Engineering, [South China University of Technology](https://www.scut.edu.cn/en/), Guangzhou.
 
 
-# 💻 Internships
+# 💻 Experience
 - *2021.01 - 2021.06*, [Tencent](https://www.tencent.com/), Algorithm Researcher, Shenzhen.
 
 
