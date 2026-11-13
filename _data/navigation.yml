@@ -19,7 +19,7 @@ main:
     url: "/#-teaching"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#-education"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Experience"
+    url: "/#-experience"
